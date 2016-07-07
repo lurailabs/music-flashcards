@@ -1,0 +1,21 @@
+body {
+  background: #dddddd;
+}
+
+/*
+  el paper de Raphael esta rodeado del div 'flashcard' que se ajusta
+  a su tamaño. Ponemos borde a ese div.
+*/
+
+
+div#flashcard svg {
+  border:     10px solid #DDDDCC;
+  background: #EED;
+  padding:    20px;
+}
+
+button#next {
+  margin-left:   80px;
+}
+
+
